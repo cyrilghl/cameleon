@@ -16,4 +16,4 @@ On Mac and Windows : just execute Cameleon.jar
 
 # One more thing
 
-I erased the music that you can play during your game because they are non-free.  
+I erased the music that you can play during your game because they are non-free. So if you got an error, don't hesitate to contact me I'll fix it!  
