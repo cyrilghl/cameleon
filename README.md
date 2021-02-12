@@ -11,5 +11,5 @@ The one who will have the most case of his colors at the last move win.
 
 # Run 
 Just make sure that you have Java 1.8 or more.
-On Linux : <p> <code> git clone https://github.com/cyrilghl/cameleon.git && cd Cameleon && java -jar cameleon_jar</code></p>
+On Linux : <p> <code> git clone https://github.com/cyrilghl/cameleon.git && cd cameleon && java -jar cameleon_jar</code></p>
 On Mac and Windows : just execute Cameleon.jar
