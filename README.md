@@ -2,7 +2,7 @@
 
 Hi ! Here his my first project in Java.   
 It's a game, and the objective is simple : conquer all the map.  
-They are two players : you and the AI player or you and one of your friend (Look the settings in the main menu!)  
+They are two players : you and the opposite AI player or you and one of your friend (Look at the settings in the main menu!)  
 Therefore, two moves are possible :  
  - You can duplicate yourself within a radius of 1 square.
  - Or you can jump within a radius of 2 squares.
